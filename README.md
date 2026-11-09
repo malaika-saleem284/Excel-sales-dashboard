@@ -1,13 +1,13 @@
 # 📊 Excel Sales Dashboard
 
-An interactive Excel dashboard built with PivotTables, charts, a Region slicer and a VBA macro that controls which dashboards the slicer filters.
+An interactive Excel dashboard built with PivotTables, PivotCharts, a Region slicer and a VBA macro that controls which dashboards the slicer filters.
 
 ---
 
 ## ✨ Features
 
-- 📌 **4 Dashboards** showing Sales Executive performance
-- 🗺️ **Region Slicer** (Islamabad, Karachi, Lahore, Multan, Peshawar, Quetta)
+- 📌 **4 dashboards** showing Sales Executive performance
+- 🗺️ **Region slicer** (Islamabad, Karachi, Lahore, Multan, Peshawar, Quetta)
 - ☑️ **Dashboard checkboxes** to choose which dashboards the slicer filters
 - ⚙️ **VBA macro** to connect or disconnect the slicer from PivotTables
 - 📈 **Charts**: bar, pie and line (PivotCharts)
@@ -47,7 +47,7 @@ An interactive Excel dashboard built with PivotTables, charts, a Region slicer a
 ## 🚀 How to Use
 
 1. Download `Project_Dashboard.xlsm`.
-2. Open it in Excel and click **Enable Content** (needed for the macro).
+2. Open it in Excel and click **Enable Content** (required for the macro to run).
 3. Tick the dashboards you want to filter.
 4. Select a region in the slicer.
 
@@ -55,7 +55,9 @@ An interactive Excel dashboard built with PivotTables, charts, a Region slicer a
 
 ## 📸 Screenshots
 
-![Dashboard](dashboard1.png)
+![Dashboard 1](dashboard1.png)
+
+![Dashboard 2](dashboard2.png)
 
 ---
 
@@ -65,4 +67,4 @@ An interactive Excel dashboard built with PivotTables, charts, a Region slicer a
 Computer Science student | Aspiring Data Analyst
 
 🔗 GitHub: [malaika-saleem284](https://github.com/malaika-saleem284)
-💼 LinkedIn: [Malaika Saleem](https://www.linkedin.com/in/aapka-naam)
+💼 LinkedIn: [Malaika Saleem](https://www.linkedin.com/in/malaika-saleem-311030428)
